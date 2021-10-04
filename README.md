@@ -16,8 +16,10 @@ This is Challenge 10
 
 
 
-
-
 #### This information (text and photots) are saved. This can be saves in Mongodb
-#### Afterwards the data can be used to create our own local web app. 
+
+#### Afterwards the data can be used to create our own local web app. We are running the app.py file to have the data photos taken and upload them into our local website.
+
+<img width="1725" alt="Screen Shot 2021-10-03 at 8 28 57 PM" src="https://user-images.githubusercontent.com/25726054/135778815-4df644bf-c342-4dc1-b2b4-1859b4c05f9d.png">
+
 #### By adding a bit of code, it is possible to have the website become mobile-responsive.
